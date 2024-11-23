@@ -14,7 +14,7 @@ This project provides a RESTful API to manage plans. The API supports CRUD opera
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/UdayII/Backend_Restful_Api_Development.git
+   git clone https://github.com/IIUday/Backend_Restful_Api_Development.git
    ```
 
 2. Navigate to the project directory:
